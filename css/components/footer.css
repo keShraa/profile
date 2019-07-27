@@ -1,0 +1,27 @@
+.footer {
+  background-color: #0A172A;
+  color: #FAFAFA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #FAFAFA;
+}
+
+.footer ul {
+  opacity: 0.7;
+  font-size: 32px;
+  margin-top: 24px;
+}
+
+.footer li {
+  padding: 0 16px;
+}
+
+.footer a {
+  color: #FAFAFA;
+}
+
+.footer p {
+  color: #FAFAFA;
+}

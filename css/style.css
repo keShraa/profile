@@ -1,0 +1,26 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #202020;
+  background-color: #FAFAFA;
+}
+
+h1 {
+  font-family: 'Michroma', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #202020;
+}
+
+ul li {
+  list-style: none;
+  display: inline;
+}
