@@ -12,6 +12,13 @@
   height: 100%;
   width: 200px;
   object-fit: cover;
+  object-position: 20%;
+}
+
+.card-product .img-center {
+  height: 100%;
+  width: 200px;
+  object-fit: cover;
   object-position: center;
 }
 
